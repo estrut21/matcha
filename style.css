@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium';
+    text-align: center;
+}
+h1{
+    color: rgb(173, 125, 211);
+}
+p{
+    color: rgb(194, 145, 235);
+    font-size: 18px;
+}
+img{
+    width: 200px;
+}
