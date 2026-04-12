@@ -146,3 +146,24 @@ logo::after {
     box-shadow: 0 6px 15px rgba(0,0,0,0.01);
     text-align: center;
 }
+
+.vlog-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+}
+
+.post {
+    background: ivory;
+    width: 250px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+    
+}
+
+.post img {
+    width: 100%;
+    border-radius: 20px;
+}
