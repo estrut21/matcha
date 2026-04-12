@@ -12,6 +12,7 @@ p{
 }
 img{
     width: 200px;
+    border-radius: 18px;
 }
 .review {
     margin: 20px;
@@ -19,10 +20,11 @@ img{
 
 .review{
     background-color: ivory;
-    width: 60%;
-    margin: 30px auto;
-    padding: 25px;
-    border-radius: 18px;
+    width: 72%;
+    margin: 35px auto;
+    padding: 35px 30px ;
+    border-radius: 28px;
+    box-shadow: 0 8px 18px rgba(0,0,0,0.08);
 }
 
 .navbar{
