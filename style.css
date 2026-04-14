@@ -150,7 +150,7 @@ logo::after {
 
 .posts {
     display: grid;
-    grid-template-columns: repeat(4, minmax(260px, 260px)) ;
+    grid-template-columns: repeat(5, minmax(260px, 260px)) ;
     justify-content: center;
     margin: 40px auto;
     gap: 30px;
