@@ -1,6 +1,7 @@
 # matcha
 
 This project is a website where I get to express my love for matcha, other fun drinks and food. My original goal was to create an aesthetically pleasing website that reflects what I like. I wanted it to feel fun, aesthetic and similar to real review vlogs. My goal was to build a fully functional website from scratch using HTML and CSS that includes mutiple pages, styled layouts, and organized content sections. I also wanted to learn GitHub.
+![Website Preview](assets/matcha-website.png)
 
 What my project is/does:
 My project is a website about reviewing food and matcha. It's a site where I post reviews of matcha drinks and food, with different pages users can click through.
